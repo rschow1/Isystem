@@ -1,0 +1,9 @@
+body { background-color: #ADD8E6; /* Light Blue */}
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkblue;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    font-size: xx-large;}
